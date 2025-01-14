@@ -1,12 +1,17 @@
-## Esse projeto esta sendo desenvolvido com apoio da Pythonando com o Caio Sampaio. ##
+**Projeto: Finance**
 
-### O projeto tem o foco de gestão de finanças pessoais.###
+### Objetivo Principal:
+- O projeto tem como objetivo ajudar a controlar os gastos pessoais.
 
-Será desenvolvido: 
--> Cadastro de entradas de ganhos financeiros.
--> Cadastro de despesas.
--> Saldo da conta.
--> Planejamento finaceiro.
--> Gerenciamento de boletos/despesas (contas à pagar, vencidas).
--> Dashboard
-
+### Objetivos:
+- O usuário pode:
+  - Cadastrar as contas a pagar.
+  - Cadastrar as categorias das contas.
+  - Acompanhar:
+    - Saldo total de contas.
+    - Contas do mês.
+    - Saldo mensal.
+    - Saldo de despesas mensais.
+    - O equilíbrio financeiro.
+    - As próximas contas a pagar.
+  - Realizar um planejamento financeiro.
